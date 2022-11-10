@@ -6,3 +6,7 @@
 1. [자바 스프링 팀](/week1/spring.pptx)
 2. [AI/ML 팀](/week1/ML.pptx)
 3. [웹 프론트엔드 팀](/week1//web-frontend.pptx)
+
+### [2주차](/week2/)
+1. [GCP 팀](/week2/gcp.pptx)
+2. [Flutter 팀](/week2/flutter.pptx)
